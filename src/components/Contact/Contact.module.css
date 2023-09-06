@@ -1,0 +1,21 @@
+.container{
+    background-color: green;
+    padding: 20px;
+    width: 100vw;
+}
+.h1{
+    color: rgb(250, 195, 12);
+    font-style: italic;
+    font-size: 40px;
+    margin-left: 40px;
+}
+.span{
+    color: white;
+    font-size: medium;
+    border:3px dotted white;
+    font-style: italic;
+    padding: 3px;
+}
+.cardMui{
+    margin-left: 100px;
+}

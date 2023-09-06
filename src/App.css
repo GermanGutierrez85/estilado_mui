@@ -1,0 +1,17 @@
+*{
+    list-style-type: none;
+    text-decoration: none;
+}
+.container{
+    background-color: blue;
+    padding: 20px;
+    height: max-content;
+    color: white;
+    width: 100vw;
+  }
+  h1{
+    font-family: sans-serif;
+  }
+  .cardMui{
+    margin-left: 100px;
+}

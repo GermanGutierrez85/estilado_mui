@@ -1,0 +1,13 @@
+.container{
+    background-color: red;
+    padding: 20px;
+    width: 100vw;
+}
+.h1{
+    color: grey;
+    text-transform: uppercase;
+}
+.cardMui{
+    margin-left: 100px;
+}
+
